@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1444614489 source:c:\users\odiscious\workspace\pariaassignment01herversion\src\p1.cpp
+	"p1.h"
+	<math.h>
+
+1444614489 c:\users\odiscious\workspace\pariaassignment01herversion\include\p1.h
+	<iostream>
+
+1444618975 source:c:\users\odiscious\workspace\pariaassignment01herversion\src\complex.cpp
+	"Complex.h"
+	<math.h>
+
+1444618917 c:\users\odiscious\workspace\pariaassignment01herversion\include\complex.h
+	<iostream>
+

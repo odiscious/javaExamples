@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1444582387 source:c:\users\odiscious\workspace\pariaassignment01\src\complex.cpp
+	"Complex.h"
+
+1444582387 c:\users\odiscious\workspace\pariaassignment01\include\complex.h
+	<iostream>
+

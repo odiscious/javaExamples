@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1444578733 source:c:\users\odiscious\workspace\unomas\src\driver.cpp
+	"Rational.h"
+
+1444544983 c:\users\odiscious\workspace\unomas\include\rational.h
+	<iostream>
+
+1444544914 source:c:\users\odiscious\workspace\unomas\src\rational.cpp
+	"Rational.h"
+	<iostream>
+

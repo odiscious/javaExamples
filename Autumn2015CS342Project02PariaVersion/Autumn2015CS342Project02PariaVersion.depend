@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1445363826 source:c:\users\odiscious\workspace\autumn2015cs342project02pariaversion\include\driver.cpp
+	<iostream>
+	<vector>
+	<math.h>
+	<cstdlib>
+	<stdio.h>
+

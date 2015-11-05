@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1444619625 source:c:\users\odiscious\workspace\again\src\complex.cpp
+	"Complex.h"
+	<math.h>
+
+1444619625 c:\users\odiscious\workspace\again\include\complex.h
+	<iostream>
+
